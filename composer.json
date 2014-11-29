@@ -1,6 +1,6 @@
 {
 	"name": "shushanxingzhe/laravelblog",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "shushanxingzhe blog user the Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
@@ -41,5 +41,10 @@
 	"config": {
 		"preferred-install": "dist"
 	},
+	"extra": {
+	        "branch-alias": {
+	            "dev-master": "1.0.0"
+	        }
+    	},
 	"minimum-stability": "stable"
 }
