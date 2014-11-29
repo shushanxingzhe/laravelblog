@@ -1,6 +1,5 @@
 {
 	"name": "shushanxingzhe/laravelblog",
-	"version": "1.0.0",
 	"description": "shushanxingzhe blog user the Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
